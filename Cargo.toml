@@ -1,0 +1,10 @@
+[package]
+name = "fldigi-kissttach"
+version = "0.1.0"
+authors = ["Matthias P. Braendli <matthias.braendli@mpb.li>"]
+
+[build-dependencies]
+cc = "1.0"
+
+[dependencies]
+libc = "0.2"
